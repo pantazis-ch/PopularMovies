@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Movie Details"
+        android:key="movie_details">
+
+        <ListPreference
+            android:summary="%s"
+            android:title="@string/pref_date_format_title"
+            android:key="@string/pref_date_format_key"
+            android:defaultValue="@string/pref_date_format_dd_mm_yyyy"
+            android:entryValues="@array/pref_date_format_values"
+            android:entries="@array/pref_date_format_options" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

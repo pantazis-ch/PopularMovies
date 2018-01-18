@@ -1,0 +1,76 @@
+<resources>
+
+    <!--**************************** App Name Label *****************************-->
+    <string name="app_name"> Popular Movies </string>
+
+    <!--************************** Settings Menu Label **************************-->
+    <string name="action_settings"> Settings </string>
+
+    <!--****************************** Error Label ******************************-->
+    <string name="error_message"> An Error Occured While Trying to Load Data. </string>
+
+    <!--****************************** No Favorite Movies Label ******************************-->
+    <string name="tv_no_favorite_movies">Add some movies to favorites...</string>
+
+    <!--*************************************************************************************-->
+    <!--**************************** Strings for Detail Activity ****************************-->
+    <!--*************************************************************************************-->
+
+    <!--************************** Release Date Label ***************************-->
+    <string name="tv_detail_release_date">Release Date</string>
+
+    <!--**************************** Overview Label *****************************-->
+    <string name="tv_detail_overview">Overview</string>
+    <!--*************************************************************************************-->
+    <!--*************************************************************************************-->
+
+
+    <!--*************************************************************************************-->
+    <!--************************* Strings for Sort Order Preference *************************-->
+    <!--*************************( This Preference has been removed )*************************-->
+    <!--*************************************************************************************-->
+
+    <!--************************* Sort Preference Title *************************-->
+    <string name="pref_sort_criteria_title"> Sort Criteria </string>
+
+    <!--************************** Sort Preference Key **************************-->
+    <string name="pref_sort_criteria_key" translatable="false"> sort_by </string>
+
+    <!--************************* Sort Preference Labels ************************-->
+    <string name="pref_sort_criteria_label_popularity"> Most Popular </string>
+    <string name="pref_sort_criteria_label_rating"> Highest Rated </string>
+    <string name="pref_sort_criteria_label_favorites"> Favorite Movies </string>
+
+    <!--************************* Sort Preference Values ************************-->
+    <string name="pref_sort_criteria_popularity" translatable="false"> popular </string>
+    <string name="pref_sort_criteria_rating" translatable="false"> top_rated </string>
+    <string name="pref_sort_criteria_favorites" translatable="false"> favorites </string>
+    <!--*************************************************************************************-->
+    <!--*************************************************************************************-->
+
+    <!--*************************************************************************************-->
+    <!--************************* Strings for Date Format Preference ************************-->
+    <!--*************************************************************************************-->
+
+    <!--************************* Date Format Preference Title *************************-->
+    <string name="pref_date_format_title"> Date Format </string>
+
+    <!--************************** Date Format Preference Key **************************-->
+    <string name="pref_date_format_key" translatable="false"> date_format </string>
+
+    <!--************************* Date Format Preference Labels ************************-->
+    <string name="pref_date_format_label_dd_mm_yyyy"> dd - mm - yyyy </string>
+    <string name="pref_date_format_label_mm_dd_yyyy"> mm - dd - yyyy </string>
+    <string name="pref_date_format_label_yyyy_mm_dd"> yyyy - mm - dd </string>
+
+
+    <!--************************* Date Format Preference Values ************************-->
+    <string name="pref_date_format_dd_mm_yyyy" translatable="false"> dd - mm - yyyy </string>
+    <string name="pref_date_format_mm_dd_yyyy" translatable="false"> mm - dd - yyyy </string>
+    <string name="pref_date_format_yyyy_mm_dd" translatable="false"> yyyy - mm - dd </string>
+
+    <!--*************************************************************************************-->
+    <!--*************************************************************************************-->
+
+
+</resources>

@@ -4,10 +4,11 @@ With the Popular Movies app you can browse through lists of movies sorted either
 
 <img src="https://drive.google.com/open?id=1WPHaLyW16si8l5EUBxhKDDnJYVUjFj1U" alt="whatever">
 
+<img src="https://static01.bbi.io/2Wt9Tk.gif"/>
 
 
 
-![Alt text]( "Main Activity")
+![image](<img src="https://drive.google.com/open?id=1WPHaLyW16si8l5EUBxhKDDnJYVUjFj1U" alt="whatever">)
 
 ## Installation
 

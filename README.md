@@ -8,7 +8,7 @@ With the Popular Movies app you can browse through lists of movies sorted either
 
 
 
-![image](<img src="https://drive.google.com/open?id=1WPHaLyW16si8l5EUBxhKDDnJYVUjFj1U" alt="whatever">)
+![]("https://drive.google.com/open?id=1WPHaLyW16si8l5EUBxhKDDnJYVUjFj1U")
 
 ## Installation
 

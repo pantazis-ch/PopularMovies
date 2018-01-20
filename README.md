@@ -20,4 +20,4 @@ Replace MY_TMDB_API_KEY with your Api Key.
 3. When the user clicks on a movie poster the detail activity opens. The detail activity contains the following information: Title, Rating, Release Date, Overview, Trailers, Reviews.
 4. The user can add a movie to the favorites list by clicking on the 'heart' symbol.
 5. Both the trailers and the reviews use ExpandableListViews.
-6. Whe the user click on a trailer the YouTube app opens. If the user wants to share the trailer link he should click on the share icon.
+6. Whe the user clicks on a trailer the YouTube app opens. If the user wants to share the trailer link he should click on the 'share' icon.

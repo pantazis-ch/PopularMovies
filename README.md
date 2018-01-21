@@ -15,9 +15,9 @@ Replace MY_TMDB_API_KEY with your Api Key.
 
 ## Technical Details
 
-1. In order to get the movie lists and the information about each movie the app makes requests to the TMDb database and then parses the JSON data that it receives. With every request the app gets a page of data which consists of twenty movies. When the user reaches at the end of the list then a new request is made for another page of data.
+1. In order to get the movie lists and the information about each movie the app makes *network requests* to the TMDb database and then parses the JSON data that it receives. With every request the app gets a page of data which consists of twenty movies. When the user reaches at the end of the list then a new request is made for another page of data. Each network request is made on a seperate thread with the help of the AsyncTaskLoader.
 2. The app uses a RecyclerView to show the lists of movie posters. The movie posters are loaded with the help of the Picasso library.
 3. When the user clicks on a movie poster the detail activity opens. The detail activity contains the following information: Title, Rating, Release Date, Overview, Trailers, Reviews.
 4. The user can add a movie to the favorites list by clicking on the 'heart' symbol.
 5. Both the trailers and the reviews use ExpandableListViews.
-6. Whe the user clicks on a trailer the YouTube app opens. If the user wants to share the trailer link he should click on the 'share' icon.
+6. When the user clicks on a trailer the YouTube app opens. If the user wants to share the trailer link he should click on the 'share' icon.

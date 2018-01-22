@@ -5,6 +5,10 @@ With the Popular Movies app you can browse through lists of movies sorted either
 <p align="center">
   <img src="https://drive.google.com/uc?id=1WPHaLyW16si8l5EUBxhKDDnJYVUjFj1U" width="300" height="450"> &nbsp<img src="https://drive.google.com/uc?id=1SvSqHTc_mibCLVNC1gMixu7R4EmRMGHn" width="300" height="450">
 </p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1pF8jspbw9TD9YkMrK71N-Co0J1kw_UJB" width="200" height="350"> &nbsp<img src="https://drive.google.com/uc?id=11nGvuTIBqxxqhEnMuTH_BFj4Ajxvd-q2" width="200" height="350" &nbsp<img src="https://drive.google.com/uc?id=1wgOS48gPVygj5Tm4bVX_gpJ6_9GdDG9u" width="200" height="350">
+</p>
   
 
 ## Installation
